@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsave",
+        "uuid": 1536162,
+        "checksum": "4c7ebu"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
